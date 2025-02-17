@@ -6,5 +6,10 @@
 ## Trino - https://helicaltech.com/installing-trino-in-linux-server/
 ## etc folder for trino - https://helicaltech.com/wp-content/uploads/2023/07/etc.zip
 
+## AWS
+```
+https://www.youtube.com/watch?v=-zFU3WOy6Pc
+```
+
 ![image](https://github.com/jniranjanreddy/data-engineering/assets/83489863/47644182-31d9-49a0-b3ee-f2383b9a8c1f)
 
