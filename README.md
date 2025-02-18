@@ -9,9 +9,12 @@
 ## AWS
 ```
 https://www.youtube.com/watch?v=-zFU3WOy6Pc
+Glue
+Crawler
 ```
 
 
 
 ![image](https://github.com/jniranjanreddy/data-engineering/assets/83489863/47644182-31d9-49a0-b3ee-f2383b9a8c1f)
 
+![image](https://github.com/user-attachments/assets/b03caa8b-0dc9-4891-9c77-25d07bab8608)
