@@ -72,3 +72,5 @@ Hybrid & Multi-cloud	Azure Interconnect	AWS Wavelength	Multi-cloud API Gateway
 ```
 
 ![image](https://github.com/user-attachments/assets/0c1b1e4b-37b2-4dbd-b1d8-86c2e37e8ef8)
+![image](https://github.com/user-attachments/assets/0599c21a-4833-48c3-8539-4a97cc93adf5)
+
