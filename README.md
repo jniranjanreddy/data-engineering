@@ -1,4 +1,4 @@
-# Data-engineering
+## Data-engineering
 ## https://www.youtube.com/watch?v=C4uXPWGx8E4
 ## Tutorials - https://www.youtube.com/watch?v=fkwpaoUE4J0&list=PLOlK8ytA0MghBrzu0i6WlTBdoO1WdwV_e
 ## Azure data Engineer - https://www.youtube.com/watch?v=_yyF3xX-xrg&list=PL3LnzjBVisiS7e6K681kUuTxWnphRUqyn
@@ -19,7 +19,7 @@ Crawler
 
 ![image](https://github.com/user-attachments/assets/b03caa8b-0dc9-4891-9c77-25d07bab8608)
 
-
+```
 Category	Azure	AWS	Google Cloud
 Compute	Azure Virtual Machines	EC2	Compute Engine
 Compute	Azure Kubernetes Service (AKS)	EKS	GKE
@@ -71,6 +71,6 @@ Hybrid & Multi-cloud	Azure VMware Solution	VMware Cloud on AWS	Google Distribute
 Hybrid & Multi-cloud	Azure Stack Hub	AWS Snowball	Bare Metal Solution
 Hybrid & Multi-cloud	Azure Stack HCI	AWS Local Zones	Google Cloud VMware Engine
 Hybrid & Multi-cloud	Azure Interconnect	AWS Wavelength	Multi-cloud API Gateway
-
+```
 
 ![image](https://github.com/user-attachments/assets/0c1b1e4b-37b2-4dbd-b1d8-86c2e37e8ef8)
