@@ -6,6 +6,23 @@
 ## Trino - https://helicaltech.com/installing-trino-in-linux-server/
 ## etc folder for trino - https://helicaltech.com/wp-content/uploads/2023/07/etc.zip
 
+
+## Azure Data Factory
+## Databricks
+## Datalake
+## 
+
+
+
+## Airflow
+## PySpark
+## MySQL
+## Pandas
+## NumPy
+
+
+
+
 ## AWS
 ```
 https://www.youtube.com/watch?v=-zFU3WOy6Pc
