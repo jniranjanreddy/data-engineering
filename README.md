@@ -5,7 +5,7 @@
 ## Trino - https://repo1.maven.org/maven2/io/trino/trino-server/
 ## Trino - https://helicaltech.com/installing-trino-in-linux-server/
 ## etc folder for trino - https://helicaltech.com/wp-content/uploads/2023/07/etc.zip
-
+## Pyspark - https://www.youtube.com/watch?v=wNRjR6Cds5s&list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm
 
 ## Azure Data Factory
 ## Databricks
