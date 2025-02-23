@@ -7,6 +7,13 @@
 ## etc folder for trino - https://helicaltech.com/wp-content/uploads/2023/07/etc.zip
 ## Pyspark - https://www.youtube.com/watch?v=wNRjR6Cds5s&list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm
 
+## Pyspark
+```
+Dockerfile for pyspark - https://github.com/subhamkharwal/docker-images/blob/master/pyspark-jupyter-lab/Dockerfile
+pysprk doker video - https://www.youtube.com/watch?v=WhxljT3IfdM
+github - https://github.com/subhamkharwal/pyspark-zero-to-hero
+```
+
 ## Azure Data Factory
 ## Databricks
 ## Datalake
