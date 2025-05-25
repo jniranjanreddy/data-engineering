@@ -6,7 +6,7 @@
 ## Trino - https://helicaltech.com/installing-trino-in-linux-server/
 ## etc folder for trino - https://helicaltech.com/wp-content/uploads/2023/07/etc.zip
 ## Pyspark - https://www.youtube.com/watch?v=wNRjR6Cds5s&list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm
-
+## https://www.youtube.com/watch?v=oJUM7jJGzl4
 ## Pyspark
 ```
 Dockerfile for pyspark - https://github.com/subhamkharwal/docker-images/blob/master/pyspark-jupyter-lab/Dockerfile
